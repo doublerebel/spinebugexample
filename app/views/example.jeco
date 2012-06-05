@@ -1,0 +1,5 @@
+<li style="background-color: light<%= @name %>">
+  <strong>name: </strong><%= @name %><br />
+  <strong>cid: </strong><%= @cid %><br />
+  <strong>id: </strong><%= @id %>
+</li>
